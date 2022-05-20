@@ -7,4 +7,4 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width=50 height=50>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width=50 height=50></p>
   
-**© [Wally.exe12378](https://github.com/Wally.exe12378)**
+**© [Wally.exe12378](https://github.com/Wally1exe)**
